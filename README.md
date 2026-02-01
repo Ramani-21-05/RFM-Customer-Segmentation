@@ -1,7 +1,3 @@
-Perfect! That means your README should also reflect the **clustering part** (K-Means + Elbow method) and the **visualization libraries** you used. Here’s an **updated professional README** including that:
-
----
-
 # CUSTOMER-SEGMENTATION
 
 **Customer Segmentation using RFM & K-Means Clustering with Excel Reports**
